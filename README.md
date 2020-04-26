@@ -18,4 +18,4 @@ Want to send your friends the script to the bee movie?
 5. Profit!
 
 ---
-_NOTE: Beelicious has only been tested on macOS. It'll work on other platforms as well, but the setup will differ slightly from what's indicated in the instructions above_
+_NOTE: Beelicious has only been tested on macOS running Python 2.7. It'll work on other platforms as well, but the setup will differ slightly from what's indicated in the instructions above_
