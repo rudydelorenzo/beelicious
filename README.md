@@ -16,3 +16,5 @@ Want to send your friends the script to the bee movie?
 
 	_This could be, for example, the box where you'd type a message in iMessage._
 5. Profit!
+
+_NOTE: Beelicious has only been tested on macOS. It'll work on other platforms as well, but the setup will differ slightly from what's indicated in the instructions above_
