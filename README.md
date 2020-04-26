@@ -8,7 +8,7 @@ Want to send your friends the script to the bee movie?
 ## Instructions
 1. Download the file `beelicious.py` from above.
 1. Launch your terminal app of choice (I use the default macOS terminal, which comes with Python preinstalled!).
-2. Navigate to the location where you saved "beelicious.py" by typing `cd /path/to/beelicious/`.
+2. Navigate to the folder that you saved "beelicious.py" to by typing `cd /path/to/beelicious/`.
 
 	_If you downloaded it into your downloads folder, running_ `cd Downloads` _should do the trick._
 3. Run the script by typing `python beelicious.py`.
