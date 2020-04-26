@@ -1,3 +1,4 @@
+#Copyright © 2020 - Rodrigo de Lorenzo
 from pynput.keyboard import Key, Controller
 import time
 import urllib2
