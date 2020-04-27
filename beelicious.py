@@ -20,8 +20,8 @@ for line in lines:
 	for char in line:
 		keyboard.press(char)
 		keyboard.release(char)
-		time.sleep(0.03)
+		#Sleep might be necessary for cetain applications
+		#time.sleep(0.03)
 	keyboard.press(Key.enter)
 	keyboard.release(Key.enter)
-	#Sleep might be necessary for cetain applications
-	#time.sleep(0.2)
+	time.sleep(0.2)
