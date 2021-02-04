@@ -1,4 +1,5 @@
-# beelicious
+![Beelicious banner](misc/banner.png)
+---
 Want to send your friends the script to the bee movie?
 
 ## Requirements
